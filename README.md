@@ -45,5 +45,9 @@ The file explorer is accessible using the button in left corner of the navigatio
 - [Rocketseat](https://rocketseat.com.br/)
 - [Let's Code](https://letscode-academy.com/)
 
+## Jobs
+
+- [Turing -- *Work remotely for American Companies*](https://turing.com/)
+
   
   
