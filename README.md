@@ -8,6 +8,7 @@ A simple repo to relay useful learning tools, apps, websites, repos, etc. - *Foc
 - [**Digital Innovation One** -- *Free courses, bootcamps, challenges, webnars,  job searching and much more;*](https://web.digitalinnovation.one/home)
 - [**FreeCodeCamp** -- *Amazing platform to learn coding, free courses with certificates*](https://www.freecodecamp.org/learn)
 - [**CodinGame** -- *Learn to program while in a game environment*](https://www.codingame.com/home)
+- [**DataCamp** -- *Learning website focused on Data Science*](https://www.datacamp.com/)
 - [**CodePen** -- *See Front-end projects and create your own. Practice your HTML. CSS and even JS skills*](https://codepen.io/)
 - [**Code Academy**](https://www.codecademy.com/)
 - [**Torne-se Um Programador**](http://www.torneseumprogramador.com.br/)
