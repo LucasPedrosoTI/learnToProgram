@@ -22,6 +22,7 @@ A simple repo to relay useful learning tools, apps, websites, repos, etc. - *Foc
 ## Web Tools To Help You
 - [**CodeSignal**](https://app.codesignal.com/login?redirect=https%3A%2F%2Fapp.codesignal.com%2Farcade)
 - [**StackEdit** -- *Online Editor for README*](https://stackedit.io/)
+- [**unDraw.co** -- *open-source illustrations*](https://undraw.co/illustrations)
 - [**Coloors** -- *Color Scheme Generator*](https://coolors.co/)
 - [**Pexels** -- *Free Online Photos Database*](https://www.pexels.com/)
 - [**FlatIcons** -- *Free (or paid) Icons*](https://www.flaticon.com/br/)
@@ -29,6 +30,7 @@ A simple repo to relay useful learning tools, apps, websites, repos, etc. - *Foc
 - [**Postimage** -- *Free image hosting website*](https://postimage.org/)
 - [**API Tester**](https://apitester.com/)
 - [**Material Design** -- *Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.*](https://material.io/)
+- [**Photopea** -- *Online photoshop*](https://www.photopea.com/)
 
 
 ## Repositories
