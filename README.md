@@ -23,6 +23,7 @@ A simple repo to relay useful learning tools, apps, websites, repos, etc. - *Foc
 - [**CodeSignal**](https://app.codesignal.com/login?redirect=https%3A%2F%2Fapp.codesignal.com%2Farcade)
 - [**StackEdit** -- *Online Editor for README*](https://stackedit.io/)
 - [**unDraw.co** -- *open-source illustrations*](https://undraw.co/illustrations)
+- [**FreeLogo** -- *Make awasome logos*](https://editor.freelogodesign.org/?lang=PT)
 - [**Coloors** -- *Color Scheme Generator*](https://coolors.co/)
 - [**Pexels** -- *Free Online Photos Database*](https://www.pexels.com/)
 - [**FlatIcons** -- *Free (or paid) Icons*](https://www.flaticon.com/br/)
