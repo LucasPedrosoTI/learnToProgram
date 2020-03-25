@@ -33,6 +33,9 @@ A simple repo to relay useful learning tools, apps, websites, repos, etc. - *Foc
 - [**Material Design** -- *Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.*](https://material.io/)
 - [**Photopea** -- *Online photoshop*](https://www.photopea.com/)
 
+## CSS Tools
+- [**Animate.css** -- *Animate your website easily (https://pureshower.com.br/)](https://daneden.github.io/animate.css/)
+
 
 ## Repositories
 - [**Web Developer Roadmap**](https://github.com/kamranahmedse/developer-roadmap)
